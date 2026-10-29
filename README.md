@@ -12,7 +12,7 @@
 3. あなたが選んだ瞬間を1本につなげた動画が生成されます。動画を保存したり、URLを友人にシェアして素敵な思い出を何度でも楽しみましょう！
 
 # スライド
-https://docs.google.com/presentation/d/1PBrZ-UyWVvxnHPs1zQOaX4I4ruw5b_QYk-q0VVPUg10/edit?usp=sharing
+https://drive.google.com/file/d/1MAQlfdXTMiviwckQ_Ad18XM8wncHA6hY/view?usp=sharing
 
 # デモ動画
 https://drive.google.com/file/d/1JO-t1GbTupP2GKs40Qa2EKpf1JD3kDAl/view?usp=sharing
